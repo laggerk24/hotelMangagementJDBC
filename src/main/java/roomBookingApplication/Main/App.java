@@ -8,10 +8,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
 	private static String CONNECTION = "jdbc:mysql://localhost:3306/hoteldb";
